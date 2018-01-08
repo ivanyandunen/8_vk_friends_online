@@ -1,6 +1,6 @@
 # Watcher of Friends Online
 
-[TODO. There will be project description]
+This script shows online friends on [vk.com](https://vk.com)
 
 # How to Install
 
@@ -8,6 +8,15 @@ Python 3 should be already installed. Then use pip (or pip3 if there is a confli
 
 ```bash
 pip install -r requirements.txt # alternatively try pip3
+```
+
+# How to use
+You might have to use python3 instead of python depending on system.
+```commandline
+python vk_friends_online.py
+Enter phone or email: 
+Enter password:
+[result]
 ```
 
 Remember, it is recommended to use [virtualenv/venv](https://devman.org/encyclopedia/pip/pip_virtualenv/) for better isolation.
